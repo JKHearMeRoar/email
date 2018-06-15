@@ -1,0 +1,8 @@
+CZ General Test
+marketing@conrad.cz,produkt@conrad.cz,michal.fokt@conrad.cz,conradtest@litmustest.com
+
+DEV Test
+jan.kubice@conrad.cz,conradtest@litmustest.com
+
+SK General Test
+marketing@conrad.cz,produkt@conrad.cz,michal.fokt@conrad.cz,norbert.vanko@conrad.cz,nikola.kucakova@conrad.cz,conradtest@litmustest.com
