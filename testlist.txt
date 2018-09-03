@@ -6,3 +6,27 @@ jan.kubice@conrad.cz,conradtest@litmustest.com
 
 SK General Test
 marketing@conrad.cz,produkt@conrad.cz,michal.fokt@conrad.cz,norbert.vanko@conrad.cz,nikola.kucakova@conrad.cz,conradtest@litmustest.com
+
+
+
+https://velkoobchod.conrad.cz/silverpop/products_enum/1613609-1177223-819444-1420520-614748-825539-1457237-1422508-819718-1462140-1530770-616665/utm_campaign=NWL_180806btb_sady_n
+https://velkoobchod.conrad.cz/silverpop/products_enum/lock/100783-250629/utm_campaign=nwl01
+
+https://www.conrad.cz/silverpop/products_enum/100783-250629/utm_source=newsletter
+https://www.conrad.cz/silverpop/products_enum/lock/100783-250629/utm_campaign=nwl01
+
+http://www.conrad.cz/silverpop/products_last_rating/v1/24
+
+
+
+padding: 15px 0px 5px 0px;
+padding: 15px 0px 5px 0px; text-align: right;
+
+<b>
+<b style="font-size: 22px;">
+
+color: #000000; color: #000000 !important; text-decoration: none; text-decoration: none !important;
+color: #000000;color: #000000 !important;text-decoration: none;text-decoration: none !important; font-size: 18px;
+
+align="right">
+align="right" style="text-align: right;">
